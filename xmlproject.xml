@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shelter>
+  <dog="2015-08-05">
+    <gender>male</gender>
+    <name>Jackie</name>
+    <home>London</home>
+  </dog>
+  <dog>
+    <!-- not completed -->
+  </dog>
+  <description status="not completed"/>
+  <newdog:description>Description of the new dog</newdog:description>
+</shelter>
